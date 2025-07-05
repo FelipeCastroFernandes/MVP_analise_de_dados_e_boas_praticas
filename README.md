@@ -10,14 +10,14 @@ Devido a componentes interativos e visualizações complexas (`folium`), o rende
 
 **Para visualizar e executar o projeto corretamente, por favor, abra o notebook diretamente no Google Colab usando o link abaixo:**
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FelipeCastroFernandes/MVP/blob/main/MVP.ipynb)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FelipeCastroFernandes/MVP_analise_de_dados_e_boas_praticas/blob/main/MVP.ipynb)
 ---
 
 ### Resultado Final da Simulação (Exemplo: São Paulo -> Rio de Janeiro)
 
 Abaixo está um exemplo do mapa gerado pela ferramenta para a rota SP-RJ com um veículo de 300km de autonomia.
 
-![Resultado do Mapa](https://github.com/FelipeCastroFernandes/MVP/blob/main/Resultado_mapa.jpg?raw=true)
+![Resultado do Mapa](https://github.com/FelipeCastroFernandes/MVP_analise_de_dados_e_boas_praticas/blob/main/Resultado_mapa.jpg?raw=true)
 
 ---
 
